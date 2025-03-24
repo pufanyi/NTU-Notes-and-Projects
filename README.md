@@ -1,5 +1,7 @@
 # NTU-Projects
 
+## SC1003: Introduction to Computational Thinking & Programming
+
 ## SC1015: Introduction to Data Science and Artificial Intelligence
 
 Codes: [Home Page](https://pufanyi.github.io/GenderRecognitionByVoice/) / [GitHub](https://github.com/pufanyi/GenderRecognitionByVoice)
@@ -61,3 +63,6 @@ Documents: [Lab 1](https://ruochee723.github.io/SC3000-Balancing-Pole-on-Cart/) 
 ## MH3511: Data Analysis with Computer
 
 ## MH4320: Computational Economics
+
+## PH1106: Electricity & Magnetism
+
