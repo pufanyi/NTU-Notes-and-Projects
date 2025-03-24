@@ -38,8 +38,26 @@ Lab3: [Report (PDF)](https://pufanyi.github.io/SC2207-Introduction-to-Databases/
 
 Lab3: [Codes](https://github.com/oscarqjh/SC2207-Project/) / [Report (PDF)](https://github.com/oscarqjh/SC2207-Project/blob/main/report/Lab5_SCSD_Team5.pdf) / [Presentation](https://youtu.be/XJqZTwaQ3Qs)
 
-## SC3000 Artificial Intelligence
+## SC3000: Artificial Intelligence
 
 Codes: [GitHub](https://github.com/pufanyi/SC3000-Projects) / [Lab 1](https://github.com/ruochee723/SC3000-Balancing-Pole-on-Cart) / [Lab 2](https://github.com/pufanyi/SC3000-Projects/tree/main/lab2)
 
 Documents: [Lab 1](https://ruochee723.github.io/SC3000-Balancing-Pole-on-Cart/) / [Lab 2](https://pufanyi.github.io/SC3000-Projects/lab2/report/Fanyi_YingXi_RuoChee_Assignment2.pdf)
+
+## SC3020: Database Systems Principles
+
+## SC4000: Machine Learning
+
+## SC4002: Natural Language Processing
+
+## MH1812: Discrete Mathematics
+
+## MH2500: Probability and Introduction to Statistics
+
+## MH3500: Statistics
+
+## MH3510: Regression Analysis
+
+## MH3511: Data Analysis with Computer
+
+## MH4320: Computational Economics
