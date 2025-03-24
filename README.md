@@ -23,3 +23,5 @@ Codes: [GitHub](https://github.com/SiyangShao/SC2006HawkerCentre)
 ## SC3000 Artificial Intelligence
 
 Codes: [GitHub](https://github.com/pufanyi/SC3000-Projects) / [Lab 1](https://github.com/ruochee723/SC3000-Balancing-Pole-on-Cart) / [Lab 2](https://github.com/pufanyi/SC3000-Projects/tree/main/lab2)
+
+Documents: [Lab 1](https://ruochee723.github.io/SC3000-Balancing-Pole-on-Cart/) / [Lab 2](https://pufanyi.github.io/SC3000-Projects/lab2/report/Fanyi_YingXi_RuoChee_Assignment2.pdf)
