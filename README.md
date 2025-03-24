@@ -16,7 +16,7 @@ Presentation: [Video](https://youtu.be/sWD81_SmO8E) / [Slides (PDF)](https://puf
 
 For some reasons, the public repo has been deleted.
 
-If you have any questions about this project, feel free to contact me directly.  
+If you have any questions about this project, feel free to [contact me](https://pufanyi.github.io/) directly.  
 
 If you're interested in the algorithms, you can learn more by participating in the [Nanyang Programming Contest](https://ntu-icpc.github.io/npc/).
 
