@@ -22,7 +22,7 @@ Codes: [GitHub](https://github.com/SiyangShao/SC2006HawkerCentre)
 
 ## SC2207: Introduction to Database Systems
 
-[GitHub](https://github.com/pufanyi/SC2207-Introduction-to-Databases)
+Codes: [GitHub](https://github.com/pufanyi/SC2207-Introduction-to-Databases)
 
 Lab1: [Report (PDF)](https://pufanyi.github.io/SC2207-Introduction-to-Databases/lab1/src/main.pdf) / [Report (TeX)](https://github.com/pufanyi/SC2207-Introduction-to-Databases/tree/main/lab1/src) / [Feedback](https://pufanyi.github.io/SC2207-Introduction-to-Databases/lab1/feedback/lab1_feedback.pdf)
 
