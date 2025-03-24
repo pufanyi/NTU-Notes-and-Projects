@@ -70,3 +70,4 @@ Documents: [Lab 1](https://ruochee723.github.io/SC3000-Balancing-Pole-on-Cart/) 
 
 ## PH1106: Electricity & Magnetism
 
+Notes: [Blog](https://pufanyi.github.io/blog/Maxwell/)
