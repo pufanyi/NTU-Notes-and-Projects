@@ -6,6 +6,12 @@ Codes: [Home Page](https://pufanyi.github.io/GenderRecognitionByVoice/) / [GitHu
 
 Presentation: [Video](https://youtu.be/sWD81_SmO8E) / [Slides (PDF)](https://pufanyi.github.io/GenderRecognitionByVoice/slides/slides.pdf) / [Slides (MS PPTX)](https://pufanyi.github.io/GenderRecognitionByVoice/slides/slides.pptx)
 
+## SC2001: Algorithm Design And Analysis
+
+For some reasons, the public repo has been deleted. If you have any questions about this project, feel free to contact me directly.  
+
+If you're interested in the algorithms, you can learn more by participating in the [Nanyang Programming Contest](https://ntu-icpc.github.io/npc/).
+
 ## SC2002: Object Oriented Design & Programming
 
 Codes: [Home Page](https://pufanyi.github.io/FYPMS/) / [GitHub](https://github.com/pufanyi/FYPMS)
