@@ -19,3 +19,7 @@ Presentation: [Video](https://youtu.be/8FikWzfHlLA)
 Codes: [GitHub](https://github.com/SiyangShao/SC2006HawkerCentre)
 
 *Note: I got an A- in this course. I think [this](https://github.com/bron322/SC2006VIFitness) repo is more valuable as a reference.*
+
+## SC3000 Artificial Intelligence
+
+Codes: [GitHub](https://github.com/pufanyi/SC3000-Projects) / [Lab 1](https://github.com/ruochee723/SC3000-Balancing-Pole-on-Cart) / [Lab 2](https://github.com/pufanyi/SC3000-Projects/tree/main/lab2)
