@@ -18,4 +18,4 @@ Presentation: [Video](https://youtu.be/8FikWzfHlLA)
 
 Codes: [GitHub](https://github.com/SiyangShao/SC2006HawkerCentre)
 
-*Note: I got an A- in this course.*
+*Note: I got an A- in this course. I think [this](https://github.com/bron322/SC2006VIFitness) repo is more valuable as a reference.*
