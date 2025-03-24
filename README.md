@@ -1,4 +1,4 @@
-# NTU-Projects
+# NTU-Notes-and-Projects
 
 ## SC1003: Introduction to Computational Thinking & Programming
 
