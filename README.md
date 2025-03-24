@@ -13,3 +13,9 @@ Codes: [Home Page](https://pufanyi.github.io/FYPMS/) / [GitHub](https://github.c
 Documents: [Report (PDF)](https://pufanyi.github.io/FYPMS/report/A50-grp6_report.pdf) / [Report (MS Word)](https://pufanyi.github.io/FYPMS/report/A50-grp6_report.docx) / [Docs](https://pufanyi.github.io/FYPMS/docs/)
 
 Presentation: [Video](https://youtu.be/8FikWzfHlLA)
+
+## SC2006: Software Engineering
+
+Codes: [GitHub](https://github.com/SiyangShao/SC2006HawkerCentre)
+
+*Note: I got an A- in this course.*
