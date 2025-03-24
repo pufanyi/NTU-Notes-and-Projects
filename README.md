@@ -12,4 +12,4 @@ Codes: [Home Page](https://pufanyi.github.io/FYPMS/) / [GitHub](https://github.c
 
 Documents: [Report (PDF)](https://pufanyi.github.io/FYPMS/report/A50-grp6_report.pdf) / [Report (MS Word)](https://pufanyi.github.io/FYPMS/report/A50-grp6_report.docx) / [Docs](https://pufanyi.github.io/FYPMS/docs/)
 
-Presentation
+Presentation: [Video](https://youtu.be/8FikWzfHlLA)
