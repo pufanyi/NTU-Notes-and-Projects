@@ -2,6 +2,10 @@
 
 ## SC1003: Introduction to Computational Thinking & Programming
 
+Codes: [GitHub](https://github.com/pufanyi/SC1003Project)
+
+Labs: [GitHub](https://pufanyi.github.io/SC1003/)
+
 ## SC1015: Introduction to Data Science and Artificial Intelligence
 
 Codes: [Home Page](https://pufanyi.github.io/GenderRecognitionByVoice/) / [GitHub](https://github.com/pufanyi/GenderRecognitionByVoice)
